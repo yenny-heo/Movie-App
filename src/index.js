@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react';//UI 라이브러리
+import ReactDOM from 'react-dom';//리액트를 웹사이트에 출력하도록 도와줌 (document object model )
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
